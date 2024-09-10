@@ -1,0 +1,2 @@
+option('squash2', type : 'boolean', value : false, description : 'Use squash2',)
+option('cppunit', type : 'boolean', value : false, description : 'Use cppunit',)
